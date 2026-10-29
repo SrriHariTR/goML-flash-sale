@@ -14,6 +14,10 @@ The project runs locally using Docker Compose and separates the frontend, API, d
 
 > **Performance note:** The target of 100,000 concurrent customers is a design requirement, not a verified benchmark. The application has been tested locally, and dedicated large-scale load testing is still required.
 
+![alt text](image.png)
+
+![alt text](image-1.png)
+
 ## Architecture
 
 The application uses the following components:
