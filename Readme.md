@@ -161,3 +161,9 @@ This project explores practical full-stack engineering concepts, including trans
 ## Repository
 
 [GitHub — goML-flash-sale](https://github.com/SrriHariTR/goML-flash-sale)
+
+## Case Study Report
+
+The complete technical case study, including the system architecture, design decisions, implementation, and testing results, is available below.
+
+[**View Full-Stack Engineering Case Study (PDF)**](./SrriHariTR_FullStackEng_Report.pdf)
